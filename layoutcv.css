@@ -1,0 +1,129 @@
+#wrapper{
+    width: 810px;
+    height: 1250px;
+    background-color: #000000;
+    margin: auto;
+}
+
+#Top{
+    width: 810px;
+    height: 94px;
+    background-color: #00BFFF;
+}
+
+#Left{
+    width: 576px;
+    height: 1156px;
+    background-color: #87CEFF;
+    float: left;
+}
+#Right{
+    width: 234px;
+    height: 1156px;
+    background-color: #B0E0E6;
+    float: left;
+}
+#Name{
+    margin: 20px;
+    text-align: right;
+    text-shadow: -2px 2px #a6a7a8;
+    font-size: 42px;
+}
+#Info{
+    margin: 20px;
+    color: #000000;
+    font-weight: 100;
+    text-align: right;
+}
+#ImgWraper{
+    width: 234px;
+    height: 190px;
+    text-align: center;
+    padding: 10px 0;
+}
+img{
+    width: 170px;
+    height: 170px;
+}
+#Objective{
+    width: 100%;
+    padding: 0 15px 5px;
+    width: 546px;
+    height: 150px;
+}
+#Education{
+    width: 100%;
+    padding: 0 15px 5px;
+    width: 546px;
+    height: 110px;
+}
+#Icon{
+    width: 30px;
+    height: 30px;
+}
+#Experience{
+    width: 100%;
+    padding: 0 15px 5px;
+    width: 546px;
+    height: 50px;
+}
+#Subjects{
+    width: 100%;
+    padding: 0 15px 5px;
+    width: 546px;
+    height: 170px;
+}
+#Projects{
+    width: 100%;
+    padding: 0 15px 5px;
+    width: 546px;
+    height: 170px;
+}
+#Skills{
+    width: 100%;
+    padding: 0 15px 5px;
+    width: 546px;
+    height: 300px;
+}
+#Personal{
+    width: 230px;
+    height: 200px;
+    text-align: left;
+    padding: 10px 0;
+    margin: auto;
+}
+#bodyTrangChu{
+    background: url("./pictures/themeIndex.jpg");
+    background-size: cover;  
+    background-position: center;
+    text-align: center;
+}
+#bodyCV{
+    background: url("./pictures/theme.jpg"); 
+    background-size: cover;
+}
+#Login{
+    width: 900px;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 8%;
+}
+table{
+    width: 800px;
+    height: 400px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    margin: 0 auto;
+}
+input{
+    width: 600px;
+    height: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+}
+button{
+    width: 400px;
+    height: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
